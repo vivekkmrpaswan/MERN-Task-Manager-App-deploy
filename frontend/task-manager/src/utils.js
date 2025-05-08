@@ -7,4 +7,4 @@ export const notify = (message, type)=>{
 // export const API_URL = 'http://localhost:8080'
 
 
-export const API_URL = 'https://mern-task-manager-app-deploy-1.onrender.com'
+export const API_URL = 'https://mern-task-manager-app-deploy-2.onrender.com'
