@@ -24,7 +24,8 @@ A full-stack task management application built with **React** (Vite) on the fron
 
 ## 📸 Screenshot
 
-![Task Manager Screenshot](./assets/screenshot.png)
+![Screenshot (28)](https://github.com/user-attachments/assets/a0a78495-fbb7-4d61-8eb8-5f99a14b516c)
+
 
 
 ## 📁 Project Structure
